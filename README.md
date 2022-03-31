@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathan
-- 👀 I’m interested in Programming
+- 👀 I’m interested... to create WebApps
 - 🌱 I’m currently learning FSD
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with... New Technologys
 - 📫 How to reach me jonathan16official@gmail.com
 
 <!---
