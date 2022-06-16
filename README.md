@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonathan
-- 👀 I’m interested... to create WebApps
+- 👀 I’m interested... to create something new
 - 🌱 I’m currently learning FSD
 - 💞️ I’m looking to collaborate with... New Technologys
 - 📫 How to reach me jonathan16official@gmail.com
