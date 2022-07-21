@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FSD
 - 💞️ I’m looking to collaborate with... New Technologys
 - 📫 How to reach me jonathan16official@gmail.com
----- To Kown more about me https://jonathan-myportfolio.netlify.app/
+--- to kown more about me https://jonathan-myportfolio.netlify.app/
 
 <!---
 jona1612/jona1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
